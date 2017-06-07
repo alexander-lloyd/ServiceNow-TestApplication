@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-07 08:36:29</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d8c4f640db5b32002aeb7d9ebf961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_132319_gametimen_player.x_132319_gametimen.player_user</sys_name>
+        <sys_package display_value="GameTimeNow" source="x_132319_gametimen">56f1b2c8db1b32002aeb7d9ebf9619c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GameTimeNow">56f1b2c8db1b32002aeb7d9ebf9619c8</sys_scope>
+        <sys_security_acl display_value="x_132319_gametimen_player">10c4f640db5b32002aeb7d9ebf961900</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d8c4f640db5b32002aeb7d9ebf961902</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 08:36:29</sys_updated_on>
+        <sys_user_role display_value="x_132319_gametimen.player_user" name="x_132319_gametimen.player_user">04c4b240db5b32002aeb7d9ebf961933</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
