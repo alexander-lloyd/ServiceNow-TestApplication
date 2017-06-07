@@ -4,62 +4,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>game</element>
-            <list_id display_value="x_132319_gametimen_game_players" element="NULL" name="x_132319_gametimen_game_players" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90263e80db5b32002aeb7d9ebf9619a7</list_id>
+            <list_id display_value="x_132319_gametimen_game_players" element="NULL" name="x_132319_gametimen_game_players" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f83ac0db5b32002aeb7d9ebf961954</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-07 08:42:30</sys_created_on>
-            <sys_id>18263e80db5b32002aeb7d9ebf9619a7</sys_id>
+            <sys_created_on>2017-06-07 08:54:56</sys_created_on>
+            <sys_id>6ef83ac0db5b32002aeb7d9ebf961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-07 08:42:30</sys_updated_on>
+            <sys_updated_on>2017-06-07 08:54:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>player</element>
-            <list_id display_value="x_132319_gametimen_game_players" element="NULL" name="x_132319_gametimen_game_players" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90263e80db5b32002aeb7d9ebf9619a7</list_id>
+            <list_id display_value="x_132319_gametimen_game_players" element="NULL" name="x_132319_gametimen_game_players" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f83ac0db5b32002aeb7d9ebf961954</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-07 08:42:30</sys_created_on>
-            <sys_id>98263e80db5b32002aeb7d9ebf9619a7</sys_id>
+            <sys_created_on>2017-06-07 08:54:56</sys_created_on>
+            <sys_id>eef83ac0db5b32002aeb7d9ebf961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-07 08:42:30</sys_updated_on>
+            <sys_updated_on>2017-06-07 08:54:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_updated_on</element>
-            <list_id display_value="x_132319_gametimen_game_players" element="NULL" name="x_132319_gametimen_game_players" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90263e80db5b32002aeb7d9ebf9619a7</list_id>
+            <list_id display_value="x_132319_gametimen_game_players" element="NULL" name="x_132319_gametimen_game_players" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f83ac0db5b32002aeb7d9ebf961954</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-07 08:42:30</sys_created_on>
-            <sys_id>1c263e80db5b32002aeb7d9ebf9619a7</sys_id>
+            <sys_created_on>2017-06-07 08:54:56</sys_created_on>
+            <sys_id>62f83ac0db5b32002aeb7d9ebf961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-07 08:42:30</sys_updated_on>
+            <sys_updated_on>2017-06-07 08:54:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>playing</element>
-            <list_id display_value="x_132319_gametimen_game_players" element="NULL" name="x_132319_gametimen_game_players" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">90263e80db5b32002aeb7d9ebf9619a7</list_id>
+            <list_id display_value="x_132319_gametimen_game_players" element="NULL" name="x_132319_gametimen_game_players" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e6f83ac0db5b32002aeb7d9ebf961954</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-07 08:42:30</sys_created_on>
-            <sys_id>9c263e80db5b32002aeb7d9ebf9619a7</sys_id>
+            <sys_created_on>2017-06-07 08:54:56</sys_created_on>
+            <sys_id>e2f83ac0db5b32002aeb7d9ebf961955</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-07 08:42:30</sys_updated_on>
+            <sys_updated_on>2017-06-07 08:54:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -73,11 +73,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-07 08:42:30</sys_created_on>
+            <sys_created_on>2017-06-07 08:54:56</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>90263e80db5b32002aeb7d9ebf9619a7</sys_id>
+            <sys_id>e6f83ac0db5b32002aeb7d9ebf961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_132319_gametimen_game_players</sys_name>
             <sys_package display_value="GameTimeNow" source="x_132319_gametimen">56f1b2c8db1b32002aeb7d9ebf9619c8</sys_package>
@@ -86,7 +86,7 @@
             <sys_scope display_value="GameTimeNow">56f1b2c8db1b32002aeb7d9ebf9619c8</sys_scope>
             <sys_update_name>sys_ui_list_x_132319_gametimen_game_players_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-07 08:42:30</sys_updated_on>
+            <sys_updated_on>2017-06-07 08:54:56</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

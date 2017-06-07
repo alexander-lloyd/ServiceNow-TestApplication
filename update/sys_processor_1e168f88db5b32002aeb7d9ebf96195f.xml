@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_processor">
+    <sys_processor action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <description>Inserts players into the Game Players table with a TrueFalse for whether they are playing or not. Source is the Email thiat is sent by X GameTimeNow Notification.</description>
+        <interactive>false</interactive>
+        <name>insertGamePlayer</name>
+        <parameters/>
+        <params_endpoint/>
+        <path>insert_game_player</path>
+        <path_endpoint>x_132319_gametimen_insert_game_player</path_endpoint>
+        <require_csrf>false</require_csrf>
+        <roles/>
+        <script><![CDATA[insertGamePlayer(g_request, g_processor);
+
+function insertGamePlayer(g_request, g_processor) {
+	var playing = g_request.getParameter('playing');
+	var player = gs.getUserDisplayName();
+	
+	var gr = new GlideRecord('x_132319_gametimen_game_players');
+	gr.initialize();
+	gr.playing = playing;
+	gr.player = player;
+	gr.insert();
+	
+	g_processor.redirect('nav_to.do?uri=%2Fx_132319_gametimen_game_players_list.do');
+}]]></script>
+        <sys_class_name>sys_processor</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-07 09:58:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1e168f88db5b32002aeb7d9ebf96195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>insertGamePlayer</sys_name>
+        <sys_package display_value="GameTimeNow" source="x_132319_gametimen">56f1b2c8db1b32002aeb7d9ebf9619c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GameTimeNow">56f1b2c8db1b32002aeb7d9ebf9619c8</sys_scope>
+        <sys_update_name>sys_processor_1e168f88db5b32002aeb7d9ebf96195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-07 09:58:12</sys_updated_on>
+        <type>script</type>
+    </sys_processor>
+</record_update>
